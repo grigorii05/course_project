@@ -1,0 +1,11 @@
+C:\Users\Admin\Desktop\Курсач\DB\DB\bin\Debug\DBLib.mdf
+C:\Users\Admin\Desktop\Курсач\DB\DB\bin\Debug\DBLib_log.ldf
+C:\Users\Admin\Desktop\Курсач\DB\DB\bin\Debug\DB.exe.config
+C:\Users\Admin\Desktop\Курсач\DB\DB\bin\Debug\DB.exe
+C:\Users\Admin\Desktop\Курсач\DB\DB\bin\Debug\DB.pdb
+C:\Users\Admin\Desktop\Курсач\DB\DB\obj\Debug\DB.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Курсач\DB\DB\obj\Debug\DB.Properties.Resources.resources
+C:\Users\Admin\Desktop\Курсач\DB\DB\obj\Debug\DB.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Курсач\DB\DB\obj\Debug\DB.exe
+C:\Users\Admin\Desktop\Курсач\DB\DB\obj\Debug\DB.pdb
+C:\Users\Admin\Desktop\Курсач\DB\DB\obj\Debug\DB.Library.resources
